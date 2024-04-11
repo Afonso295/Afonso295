@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Afonso's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Afonso295&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Afonso295/Afonso295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
