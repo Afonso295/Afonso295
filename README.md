@@ -1,4 +1,4 @@
-[![Afonso's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Afonso295&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Afonso's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Afonso295&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Afonso295&theme=dark&show_icons=true&layout=compact&line_height=40)
 <!--
 **Afonso295/Afonso295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
