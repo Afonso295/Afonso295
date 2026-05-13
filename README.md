@@ -59,8 +59,7 @@ Tenho 2 anos de formação em **Programação Web** e estou a aprofundar tudo is
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Afonso295-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Afonso295)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Afonso_Carrasquinho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN-AQUI)
-[![Email](https://img.shields.io/badge/Email-SEU--EMAIL--AQUI-00dc82?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Afonso_Carrasquinho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU-LINKEDIN-AQUI](https://www.linkedin.com/in/afonso-carrasquinho/))
 
 </div>
 
