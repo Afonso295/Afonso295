@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-Tenho 2 anos de formação em **Programação Web** e estou a aprofundar tudo isso numa **Licenciatura em Engenharia Informática**. O meu foco é o **Frontend** — é onde me sinto em casa. A framework que mais gosto é **Nuxt.js**, mas estou a expandir para **Next.js** e a começar a explorar o **Backend** a sério.
+Concluí um **CTeSP em Programação Web, Dispositivos e Aplicações Móveis** e estou atualmente a aprofundar esses conhecimentos numa **Licenciatura em Engenharia Informática**. O meu foco principal é o **Frontend** — é onde me sinto mais em casa, especialmente com **Nuxt.js** e **Vue 3**. Tenho experiência prática em **otimização de SEO** com resultados a 100% no **Lighthouse**, implementação de **analytics de comportamento** com **Microsoft Clarity**, e integração de **bases de dados em tempo real** com **Firebase**. Estou agora a explorar o **Backend** com o objetivo de me tornar um developer mais completo.
 
 ---
 
@@ -42,6 +42,7 @@ Tenho 2 anos de formação em **Programação Web** e estou a aprofundar tudo is
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Clarity](https://img.shields.io/badge/Microsoft_Clarity-000000?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white)
