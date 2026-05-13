@@ -39,15 +39,17 @@ Tenho 2 anos de formação em **Programação Web** e estou a aprofundar tudo is
 ---
 
 ## GitHub Stats
+<div align="center">
+  <a href="https://github.com/Afonso295">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Afonso295&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00dc82&icon_color=58a6ff&text_color=8b949e&rank_icon=github"/>
+  </a>
+  <a href="https://github.com/Afonso295">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Afonso295&theme=github_dark&show_icons=true&layout=compact&hide_border=true&bg_color=0d1117&title_color=00dc82&text_color=8b949e&langs_count=6"/>
+  </a>
+</div>
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Afonso295&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00dc82&icon_color=58a6ff&text_color=8b949e&rank_icon=github)](https://github.com/Afonso295)
-
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Afonso295&theme=github_dark&show_icons=true&layout=compact&hide_border=true&bg_color=0d1117&title_color=00dc82&text_color=8b949e&langs_count=6)](https://github.com/Afonso295)
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Afonso295&theme=github-compact&bg_color=0d1117&color=00dc82&line=58a6ff&point=00dc82&hide_border=true)](https://github.com/Afonso295)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Afonso295&theme=github-compact&bg_color=0d1117&color=00dc82&line=58a6ff&point=00dc82&hide_border=true&area=true"/>
 </div>
 
 ---
