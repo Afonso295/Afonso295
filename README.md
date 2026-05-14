@@ -14,6 +14,18 @@ Concluí um **CTeSP em Programação Web, Dispositivos e Aplicações Móveis** 
 
 ## Stack
 
+### ⚙️ Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Clarity](https://img.shields.io/badge/Microsoft_Clarity-000000?style=for-the-badge&logo=microsoft&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google-search-console&logoColor=white)
+
 ### 🟢 Domínio atual
 
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=black)
@@ -35,18 +47,6 @@ Concluí um **CTeSP em Programação Web, Dispositivos e Aplicações Móveis** 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### ⚙️ Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Clarity](https://img.shields.io/badge/Microsoft_Clarity-000000?style=for-the-badge&logo=microsoft&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white)
-![Google Search Console](https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google-search-console&logoColor=white)
 
 ---
 
@@ -74,10 +74,4 @@ Concluí um **CTeSP em Programação Web, Dispositivos e Aplicações Móveis** 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Afonso_Carrasquinho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afonso-carrasquinho/)
 [![Email](https://img.shields.io/badge/Email-afonsocarrasquinho7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afonsocarrasquinho7@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-  <sub>Afonso Carrasquinho · Portugal 🇵🇹</sub>
 </div>
