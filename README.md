@@ -45,7 +45,6 @@ Concluí um **CTeSP em Programação Web, Dispositivos e Aplicações Móveis** 
 ![SOAP](https://img.shields.io/badge/SOAP-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
