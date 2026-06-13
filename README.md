@@ -59,10 +59,6 @@ Concluí um **CTeSP em Programação Web, Dispositivos e Aplicações Móveis** 
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Afonso295&theme=github-compact&bg_color=0d1117&color=00dc82&line=58a6ff&point=00dc82&hide_border=true&area=true"/>
-</div>
-
 ---
 
 ## Contacto
