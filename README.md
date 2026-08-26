@@ -48,7 +48,7 @@ Concluí um **CTeSP em Programação Web, Dispositivos e Aplicações Móveis** 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
-
+<!--
 ## GitHub Stats
 <div align="center">
   <a href="https://github.com/Afonso295">
@@ -60,7 +60,7 @@ Concluí um **CTeSP em Programação Web, Dispositivos e Aplicações Móveis** 
 </div>
 
 ---
-
+!-->
 ## Contacto
 
 <div align="center">
